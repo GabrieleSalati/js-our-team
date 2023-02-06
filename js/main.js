@@ -1,4 +1,4 @@
-// Array di oggetti
+// ARRAY DI OGGETTI
 
 const team = [
 
@@ -39,3 +39,40 @@ const team = [
     },
 ];
 
+// STAMPA IN CONSOLE DEI VALORI DI CIASCUN OGGETTO
+
+// VALORI OGGETTO 1
+
+console.log(team[0].name);
+console.log(team[0].role);
+console.log(team[0].img);
+
+// VALORI OGGETTO 2
+
+console.log(team[1].name);
+console.log(team[1].role);
+console.log(team[1].img);
+
+// VALORI OGGETTO 3
+
+console.log(team[2].name);
+console.log(team[2].role);
+console.log(team[2].img);
+
+// VALORI OGGETTO 3
+
+console.log(team[3].name);
+console.log(team[3].role);
+console.log(team[3].img);
+
+// VALORI OGGETTO 4
+
+console.log(team[4].name);
+console.log(team[4].role);
+console.log(team[4].img);
+
+// VALORI OGGETTO 5
+
+console.log(team[5].name);
+console.log(team[5].role);
+console.log(team[5].img);
